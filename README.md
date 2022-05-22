@@ -1,4 +1,6 @@
 # Fullstack test using React and Node
+<img width="1386" alt="image" src="https://user-images.githubusercontent.com/60918154/169708743-fb9f01b9-ef81-4236-abbb-208155daeab4.png">
+
 
 In this repository, you will find 2 folders with separeted projects for the client and the server. The client is build using React and Typescript, and the client uses Node , Express and Typescript.
 
