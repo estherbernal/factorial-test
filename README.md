@@ -11,7 +11,7 @@ Otherwise, download the repository and run both projects.
 ## To run the projects:
 
 ### Server
-Acces to the server folder and execute:
+Access to the server folder and execute:
 ```
 $ npm install
 $ npm start
