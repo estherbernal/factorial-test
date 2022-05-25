@@ -13,14 +13,14 @@ Otherwise, download the repository and run both projects.
 ### Server
 Acces to the server folder and execute:
 ```
-$ npm istall
+$ npm install
 $ npm start
 ```
 
 ### Client
 Once the server is running, run the client in other terminal window. Access to the client folder and execute:
 ```
-$ npm istall
+$ npm install
 $ npm start
 ```
 
