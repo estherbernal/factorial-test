@@ -4,10 +4,6 @@
 
 In this repository, you will find 2 folders with separeted projects for the client and the server. The client is build using React and Typescript, and the client uses Node , Express and Typescript.
 
-These projects have been deployed using heroku for the server and netlify for the client. To see the live version, follow this link: https://factorial-test-client.netlify.app/
-
-Otherwise, download the repository and run both projects.
-
 ## To run the projects:
 
 ### Server
